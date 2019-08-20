@@ -3,12 +3,12 @@
 
 ## 运行截图
 
-**Result1**
-![result1](http://pw9l1zd1z.bkt.clouddn.com/result1.gif This is result-1)
-**Result2**
-![result3](http://pw9l1zd1z.bkt.clouddn.com/result3.gif This is result-3)
-**Lost Result**
-![result4](http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif lost)
+**Result1**  
+![result1](http://pw9l1zd1z.bkt.clouddn.com/result1.gif "This is result-1")
+**Result2**  
+![result3](http://pw9l1zd1z.bkt.clouddn.com/result3.gif "This is result-3")
+**Lost Result**  
+![result4](http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif "lost")
 
 ## 算法原理
 1. 首先将图像从RGB转化位HSL，然后对待跟踪的视频图像序列进行统计求平均值，提取足球草地主颜色
