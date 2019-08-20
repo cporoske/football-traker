@@ -1,0 +1,16 @@
+
+# excluding all ppt
+*.pptx
+
+# excluding all pdf
+*.pdf
+
+# compressed file
+*.zip
+
+# discard all .m files
+*.m
+
+# include main
+!main.m
+
