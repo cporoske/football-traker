@@ -4,14 +4,11 @@
 ## 运行截图
 
 **Result1**  
-
-* result1.gif
-**Result2**  
-
-* result3.gif
+* result1.gif  
+**Result2** 
+* result3.gif  
 **Lost Result**  
-
-* 丢失.gif
+* 丢失.gif  
 
 ## 算法原理
 1. 首先将图像从RGB转化位HSL，然后对待跟踪的视频图像序列进行统计求平均值，提取足球草地主颜色
