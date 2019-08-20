@@ -4,10 +4,13 @@
 ## 运行截图
 
 **Result1**  
+
 * result1.gif
 **Result2**  
+
 * result3.gif
 **Lost Result**  
+
 * 丢失.gif
 
 ## 算法原理
