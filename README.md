@@ -2,9 +2,14 @@
 基于Matlab的简单足球跟踪器
 
 ## 运行截图
-1. result1.gif  
+1. result1.gif 
+![result1](http://pw9l1zd1z.bkt.clouddn.com/result1.gif "image not loaded")
+
 2. result3.gif  
+![result2](http://pw9l1zd1z.bkt.clouddn.com/result3.gif "image not loaded")
+
 3. 丢失.gif  
+![result3](http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif "image not loaded")
 
 ## 算法原理
 1. 首先将图像从RGB转化位HSL，然后对待跟踪的视频图像序列进行统计求平均值，提取足球草地主颜色
