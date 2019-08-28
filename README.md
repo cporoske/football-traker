@@ -3,13 +3,13 @@
 
 ## 运行截图
 1. result1.gif ([http://pw9l1zd1z.bkt.clouddn.com/result1.gif](http://pw9l1zd1z.bkt.clouddn.com/result1.gif "image url"))  
-![result1](http://pw9l1zd1z.bkt.clouddn.com/result1.gif  "image not loaded")
+![result1](https://raw.githubusercontent.com/cporoske/football-traker/master/result1.gif "image not loaded")
 
 2. result3.gif([http://pw9l1zd1z.bkt.clouddn.com/result3.gif](http://pw9l1zd1z.bkt.clouddn.com/result3.gif "image url"))  
-![result2](http://pw9l1zd1z.bkt.clouddn.com/result3.gif  "image not loaded")
+![result2](https://raw.githubusercontent.com/cporoske/football-traker/master/result3.gif  "image not loaded")
 
 3. 丢失.gif([http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif](http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif  "image url"))  
-![result3](http://pw9l1zd1z.bkt.clouddn.com/%E4%B8%A2%E5%A4%B1.gif  "image not loaded")
+![result3](https://raw.githubusercontent.com/cporoske/football-traker/master/%E4%B8%A2%E5%A4%B1.gif  "image not loaded")
 
 ## 算法原理
 1. 首先将图像从RGB转化位HSL，然后对待跟踪的视频图像序列进行统计求平均值，提取足球草地主颜色
